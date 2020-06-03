@@ -19,6 +19,6 @@ Solution Link : https://github.com/kaushik1580/HTML-CSS-and-Javascript-for-Web-D
 Week #5 Coding Assignment Solution
 ------------------------------------------------------------
 Description   : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
-Solution Link : https://github.com/kaushik1580/HTML-CSS-Javascript-for-Web-Developers/module5-solution/
+Solution Link : https://github.com/kaushik1580/HTML-CSS-and-Javascript-for-Web-Developers/tree/master/module5-solution
 
 
